@@ -3,3 +3,5 @@ para acomodar los elementos. Si bien es cierto que CSS gris o flexbox
 hubiesen ayudado más, se decidió usar un nivel básico para este proyecto.
 
 La página cumple con todos los objetivos solicitados, pero se puede mejorar
+
+PD: No usar Opera.... amo ese navegador, pero es pesimo para evaluar responsive design
